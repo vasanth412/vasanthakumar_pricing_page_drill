@@ -2,7 +2,6 @@
 
 ![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
 
-
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
@@ -16,7 +15,6 @@ Your users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
 - **Bonus**: Complete the challenge with just HTML and CSS
-
 
 ## Where to find everything
 
@@ -47,6 +45,5 @@ As mentioned above, there are a number of ways to host your project for free. We
 1. [Sign up to ZEIT Now](http://bit.ly/fem-zeit-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [ZEIT Now for GitHub](https://zeit.co/docs/v2/git-integrations/zeit-now-for-github) integration.
 2. Connect your project to ZEIT Now from the ["Create a new project" page](https://zeit.co/new), using the "New Project From GitHub" button and selecting the project you want to deploy.
 3. Once connected, every time you `git push`, ZEIT Now will create a new [deployment](https://zeit.co/docs/v2/platform/deployments) and the deployment URL will be shown on your [ZEIT Dashboard](https://zeit.co/dashboard). You will also receive an email for each deployment with the URL.
-
 
 **Have fun building!** 🚀
